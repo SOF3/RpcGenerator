@@ -1,0 +1,6 @@
+name: RpcGenerator
+description: Implements world generator through an RPC server
+version: 0.1.0
+api: [4.0.0]
+author: SOFe
+main: SOFe\RpcGenerator\Main
